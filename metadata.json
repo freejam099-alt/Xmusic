@@ -1,0 +1,6 @@
+{
+  "name": "XMusic",
+  "description": "YouTube Music client with spatial audio, lossless streaming & download, synced lyrics, local music, and Material You Expressive design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
